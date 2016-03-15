@@ -1,0 +1,53 @@
+body {
+  background: url(background.jpg);
+  background-size: cover;
+  background-image:
+
+
+}
+
+h1 {
+  color: gold;
+  text-align: center;
+  font-size: 60;
+  font-family: fantasy;
+
+}
+
+.links {
+  text-align: center;
+  font-size: 25;
+  color: #FFFFF0;
+}
+
+a{
+  margin: 20px;
+  color: #FFFFF0;
+}
+
+.pictures img{
+  padding-bottom: 20px;
+  width:60%;
+  height:auto;
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 30;
+  color: gold;
+  text-align: center;
+}
+
+p {
+  font-family: fantasy;
+  color:aqua;
+  font-size: 45;
+  text-align: center;
+  padding: 0px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
